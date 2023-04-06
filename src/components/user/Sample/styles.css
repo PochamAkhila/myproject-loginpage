@@ -1,0 +1,12 @@
+.box-styles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    gap: 20px;
+}
+.childs{
+    width: 400px;
+}

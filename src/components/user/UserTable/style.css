@@ -1,0 +1,9 @@
+.wrapper {
+    margin: 30px 20px;
+}
+
+.wrapper input {
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+}
